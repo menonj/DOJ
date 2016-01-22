@@ -1,0 +1,4 @@
+[Header]\r\n2015-09-14 16:09:03,513 [1128] INFO  LogTest.Logger ... and an Info log.
+2015-09-14 16:09:03,687 [1128] WARN  LogTest.Logger ... and a warning.
+2015-09-14 16:09:03,853 [1128] ERROR LogTest.Logger ... and an error.
+2015-09-14 16:09:04,046 [1128] FATAL LogTest.Logger ... and a fatal error.

@@ -1,0 +1,1 @@
+C:\SharpDevSolutions\Logger\LoggingUtil\LoggingUtil\obj\Debug\Logger.csprojResolveAssemblyReference.cache

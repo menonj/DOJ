@@ -1,0 +1,8 @@
+C:\SharpDevSolutions\Logger\LoggingUtil\LoggingUtil\obj\Debug\LogTest.csprojResolveAssemblyReference.cache
+C:\SharpDevSolutions\Logger\LoggingUtil\LoggingUtil\bin\Debug\LogTest.exe.config
+C:\SharpDevSolutions\Logger\LoggingUtil\LoggingUtil\bin\Debug\LogTest.exe
+C:\SharpDevSolutions\Logger\LoggingUtil\LoggingUtil\bin\Debug\LogTest.pdb
+C:\SharpDevSolutions\Logger\LoggingUtil\LoggingUtil\bin\Debug\log4net.dll
+C:\SharpDevSolutions\Logger\LoggingUtil\LoggingUtil\bin\Debug\log4net.xml
+C:\SharpDevSolutions\Logger\LoggingUtil\LoggingUtil\obj\Debug\LogTest.exe
+C:\SharpDevSolutions\Logger\LoggingUtil\LoggingUtil\obj\Debug\LogTest.pdb
